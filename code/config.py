@@ -1,0 +1,9 @@
+MAX_FPS = 60
+WIN_HEIGHT = 650
+WIN_WIDTH = 650
+
+SQUARE_SIZE = 60
+COLORS = {
+    "bg": "#312E2B"
+}
+
